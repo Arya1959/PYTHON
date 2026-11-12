@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60bb469b-21e7-4779-b5a8-157bbe63346f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Arya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, add ‘ly’.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Area and Perimeter of a Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arithmetic Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank account (Constructor and Methods).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Character frequency in a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Construct the pattern using nested loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor with 2 parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor with One parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructor without Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factorial using function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci series of N terms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First n Multiples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/From a list, create a list removing all even numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Largest of 3 numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number of digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Publisher, Book, Python (Base class constructor invocation, method overriding).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple class and object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of first 100 even numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swap 2 Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time (Private attributes, Overloading).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics (packages).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Append student details to an existing file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Appending data to a file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Copy odd lines of one file to another.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Count the number of lines in a file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Count the number of words in a text file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Create a single string from two strings, swapping the character at position 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Display first and last colours from a list of comma-separated colour names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Exchange first and last characters in a string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/GCD of 2 numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Merge two dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Read specific columns of a given CSV file and print their contents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Reading a file line by line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Reading data from a file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Roots of a quadratic equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Sort dictionary (ascending and descending).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Using with statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/Write a Python dictionary to a CSV file, read the CSV and display its content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/create a file &amp; store name,age &amp;address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/cuboid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/readcvs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/graphics3d/sphere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap year or not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000991272" />
+      <entry key="MS500" value="1.015821189792711" />
+      <entry key="S2" value="1.366685564340919" />
+      <entry key="S5" value="1.831236816162767" />
+      <entry key="S10" value="2.2369939177479345" />
+      <entry key="S30" value="3.465472119232241" />
+      <entry key="S60" value="5.163434507047102" />
+      <entry key="M2" value="6.985364107200049" />
+      <entry key="M5" value="10.157803374575607" />
+      <entry key="M10" value="15.495638544601958" />
+      <entry key="M15" value="21.556019920100734" />
+      <entry key="M30" value="46.785546352109776" />
+      <entry key="H1" value="100.60002839930452" />
+      <entry key="H2" value="176.74583607074766" />
+      <entry key="H4" value="251.7310905282138" />
+      <entry key="D1" value="353.95533683327875" />
+      <entry key="W1" value="376.9702587644721" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.45424945693487E-67" />
+      <entry key="S2" value="2.583411770250517E-17" />
+      <entry key="S5" value="2.3167408346763754E-7" />
+      <entry key="S10" value="4.813253405625321E-4" />
+      <entry key="S30" value="0.07836934955988246" />
+      <entry key="S60" value="0.27994705970524414" />
+      <entry key="M2" value="0.5304394285568598" />
+      <entry key="M5" value="0.8464576552682247" />
+      <entry key="M10" value="1.2064269593535963" />
+      <entry key="M15" value="1.7051542129687753" />
+      <entry key="M30" value="4.13876662375927" />
+      <entry key="H1" value="9.088150344882797" />
+      <entry key="H2" value="15.364620199721703" />
+      <entry key="H4" value="21.008459502210602" />
+      <entry key="D1" value="28.17657924818605" />
+      <entry key="W1" value="29.72992723735234" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.30145195692929316" />
+      <entry key="MS500" value="0.7925694263975984" />
+      <entry key="S2" value="1.2291469561665262" />
+      <entry key="S5" value="1.7402817501076953" />
+      <entry key="S10" value="2.1788951555866647" />
+      <entry key="S30" value="3.4765062143169114" />
+      <entry key="S60" value="5.362428038904819" />
+      <entry key="M2" value="7.448511692709881" />
+      <entry key="M5" value="10.966522509469142" />
+      <entry key="M10" value="16.678555707902504" />
+      <entry key="M15" value="23.239605783623286" />
+      <entry key="M30" value="50.895179028221634" />
+      <entry key="H1" value="109.65184087814445" />
+      <entry key="H2" value="192.0768560316833" />
+      <entry key="H4" value="272.71529408718067" />
+      <entry key="D1" value="382.1262132007719" />
+      <entry key="W1" value="406.6993185423811" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KrBxavOHNL8TQbPT28sIpis80o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, add ‘ly’.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Append student details to an existing file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Appending data to a file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Area and Perimeter of a Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arithmetic Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bank account (Constructor and Methods).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Character frequency in a string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Construct the pattern using nested loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor with 2 parameters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor with One parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor without Parameters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Copy odd lines of one file to another.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count the number of lines in a file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count the number of words in a text file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exchange first and last characters in a string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial using function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci series of N terms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First n Multiples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.From a list, create a list removing all even numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GCD of 2 numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Largest of 3 numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number of digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Publisher, Book, Python (Base class constructor invocation, method overriding).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Read each row from a given csv file and print it as a list of strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Read specific columns of a given CSV file and print their contents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reading a file line by line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reading data from a file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Roots of a quadratic equation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple class and object.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of first 100 even numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Swap 2 Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Time (Private attributes, Overloading).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Using with statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Write a Python dictionary to a CSV file, read the CSV and display its content.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create a file &amp; store name,age &amp;address.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graphics (packages).executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leap year or not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readcvs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60bb469b-21e7-4779-b5a8-157bbe63346f" name="Changes" comment="" />
+      <created>1792306053697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792306053697</updated>
+      <workItem from="1792306055011" duration="174000" />
+      <workItem from="1792602127624" duration="258000" />
+      <workItem from="1792602518111" duration="76000" />
+      <workItem from="1792642806308" duration="6092000" />
+      <workItem from="1793114616586" duration="8277000" />
+      <workItem from="1793248719319" duration="4991000" />
+      <workItem from="1793802399350" duration="5859000" />
+      <workItem from="1793850235573" duration="2906000" />
+      <workItem from="1793853169027" duration="5803000" />
+      <workItem from="1793878883519" duration="3000" />
+      <workItem from="1794460233863" duration="2833000" />
+      <workItem from="1794475987925" duration="639000" />
+      <workItem from="1794476820683" duration="314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Arya$GCD_of_2_numbers.coverage" NAME="GCD of 2 numbers Coverage Results" MODIFIED="1793858283613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Read_each_row_from_a_given_csv_file_and_print_it_as_a_list_of_strings.coverage" NAME="Read each row from a given csv file and print it as a list of strings Coverage Results" MODIFIED="1793855124851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Character_frequency_in_a_string.coverage" NAME="Character frequency in a string Coverage Results" MODIFIED="1793115949101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Sum_of_first_100_even_numbers.coverage" NAME="Sum of first 100 even numbers Coverage Results" MODIFIED="1792643821464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Arithmetic_Operations.coverage" NAME="Arithmetic Operations Coverage Results" MODIFIED="1792643464854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Simple_class_and_object.coverage" NAME="Simple class and object Coverage Results" MODIFIED="1792644320124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$graphics__packages_.coverage" NAME="graphics (packages) Coverage Results" MODIFIED="1793121007850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$readcvs.coverage" NAME="readcvs Coverage Results" MODIFIED="1793856024108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$input.coverage" NAME="input Coverage Results" MODIFIED="1793850761669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Add_ing_at_the_end_of_a_given_string__If_it_already_ends_with_ing__add_ly.coverage" NAME="Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, add ‘ly’ Coverage Results" MODIFIED="1793116931700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Append_student_details_to_an_existing_file.coverage" NAME="Append student details to an existing file Coverage Results" MODIFIED="1793852429521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$From_a_list__create_a_list_removing_all_even_numbers.coverage" NAME="From a list, create a list removing all even numbers Coverage Results" MODIFIED="1792602522952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Area_and_Perimeter_of_a_Circle.coverage" NAME="Area and Perimeter of a Circle Coverage Results" MODIFIED="1794461998268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$leap_year_or_not.coverage" NAME="leap year or not Coverage Results" MODIFIED="1794460987360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Count_the_number_of_lines_in_a_file.coverage" NAME="Count the number of lines in a file Coverage Results" MODIFIED="1793852703643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Publisher__Book__Python__Base_class_constructor_invocation__method_overriding_.coverage" NAME="Publisher, Book, Python (Base class constructor invocation, method overriding) Coverage Results" MODIFIED="1793251870232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Exchange_first_and_last_characters_in_a_string.coverage" NAME="Exchange first and last characters in a string Coverage Results" MODIFIED="1793858828966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Reading_a_file_line_by_line.coverage" NAME="Reading a file line by line Coverage Results" MODIFIED="1793851393516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Constructor_with_2_parameters.coverage" NAME="Constructor with 2 parameters Coverage Results" MODIFIED="1792645483615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Using_with_statement.coverage" NAME="Using with statement Coverage Results" MODIFIED="1793851549599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Largest_of_3_numbers.coverage" NAME="Largest of 3 numbers Coverage Results" MODIFIED="1792643296178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$First_n_Multiples.coverage" NAME="First n Multiples Coverage Results" MODIFIED="1792643542741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Constructor_with_One_parameter.coverage" NAME="Constructor with One parameter Coverage Results" MODIFIED="1792645360630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1792644009112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Constructor_without_Parameters.coverage" NAME="Constructor without Parameters Coverage Results" MODIFIED="1792645154789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Construct_the_pattern_using_nested_loop.coverage" NAME="Construct the pattern using nested loop Coverage Results" MODIFIED="1793118131484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Roots_of_a_quadratic_equation.coverage" NAME="Roots of a quadratic equation Coverage Results" MODIFIED="1794460781167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Factorial_using_function.coverage" NAME="Factorial using function Coverage Results" MODIFIED="1793114767989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Time__Private_attributes__Overloading_.coverage" NAME="Time (Private attributes, Overloading) Coverage Results" MODIFIED="1793806556037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Read_specific_columns_of_a_given_CSV_file_and_print_their_contents.coverage" NAME="Read specific columns of a given CSV file and print their contents Coverage Results" MODIFIED="1793856608058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Write_a_Python_dictionary_to_a_CSV_file__read_the_CSV_and_display_its_content.coverage" NAME="Write a Python dictionary to a CSV file, read the CSV and display its content Coverage Results" MODIFIED="1793858041860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$create_a_file___store_name_age__address.coverage" NAME="create a file &amp; store name,age &amp;address Coverage Results" MODIFIED="1793852086619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Copy_odd_lines_of_one_file_to_another.coverage" NAME="Copy odd lines of one file to another Coverage Results" MODIFIED="1793854970712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Swap_2_Numbers.coverage" NAME="Swap 2 Numbers Coverage Results" MODIFIED="1792643191590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Fibonacci_series_of_N_terms.coverage" NAME="Fibonacci series of N terms Coverage Results" MODIFIED="1793115190695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Appending_data_to_a_file.coverage" NAME="Appending data to a file Coverage Results" MODIFIED="1793851198044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Number_of_digits.coverage" NAME="Number of digits Coverage Results" MODIFIED="1792644150579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Reading_data_from_a_file.coverage" NAME="Reading data from a file Coverage Results" MODIFIED="1793850914504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+    <SUITE FILE_PATH="coverage/Arya$Bank_account__Constructor_and_Methods_.coverage" NAME="Bank account (Constructor and Methods) Coverage Results" MODIFIED="1793251169231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Arya$Count_the_number_of_words_in_a_text_file.coverage" NAME="Count the number of words in a text file Coverage Results" MODIFIED="1793853459479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics/graphics3d" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+f=open("student.txt","r")
+data=f.read()
+words=data.split()
+count=len(words)
+print("Number of words in file:",count)
+f.close()

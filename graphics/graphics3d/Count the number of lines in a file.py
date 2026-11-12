@@ -1,0 +1,5 @@
+f=open("student.txt")
+lines=f.readlines()
+count=len(lines)
+print("Number of lines in file:",count)
+f.close()
